@@ -13,3 +13,13 @@ nav {
     padding: 5px;
     margin: 2px;
 }
+
+.hori1 {
+    overflow-y: scroll;
+}
+
+div {
+    background-color: rgb(24, 24, 24);
+    border: solid 2px rgb(44, 44, 44);
+    border-radius: 13px;
+}
